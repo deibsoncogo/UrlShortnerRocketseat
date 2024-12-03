@@ -26,6 +26,4 @@ Este projeto foi criado para ser executado utilizando os serviços da AWS. Por n
 
 O projeto tem como objetivo apenas criar uma URL menor, salvá-la no S3 da AWS e, em seguida, utilizar outro projeto, também desenvolvido durante o curso, chamado Redirect URL Shortener, que redireciona o usuário para o endereço desejado.
 
-URL do repositório do projeto Redirect URL Shortener:
-
-https://github.com/deibsoncogo/redirect-url-shortener-rocketseat
+Utilize este atalho para acessar o repositório do projeto: [Redirect URL Shortener](https://github.com/deibsoncogo/redirect-url-shortener-rocketseat).
